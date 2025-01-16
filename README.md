@@ -1,3 +1,5 @@
+MOULKI YASSINE 
+DEVOAM202
 # Travel App
 
 Welcome to the Travel App! This application helps users discover amazing destinations, plan their trips, and get personalized travel recommendations. It provides useful information about places, including landmarks, activities, local cuisine, and more.
